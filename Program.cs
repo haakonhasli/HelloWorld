@@ -13,6 +13,7 @@ namespace hello
             number = eple.Next(32, 87);
             string numster = number.ToString();
             string finalmessage = string.Format("{0} {1}", message, numster);
+            int test = 0;
 
 
 
